@@ -11,6 +11,7 @@
       <property name="size" type="uint" value="30"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="1"/>
+        <value type="int" value="7"/>
         <value type="int" value="3"/>
         <value type="int" value="15"/>
         <value type="int" value="4"/>
@@ -41,6 +42,15 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="mpris-players" type="string" value="rhythmbox"/>
+    </property>
+    <property name="plugin-7" type="string" value="appmenu">
+      <property name="plugins" type="empty">
+        <property name="plugin-7" type="empty">
+          <property name="compact-mode" type="bool" value="false"/>
+          <property name="bold-application-name" type="bool" value="true"/>
+          <property name="expand" type="bool" value="true"/>
+        </property>
+      </property>
     </property>
   </property>
 </channel>

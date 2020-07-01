@@ -22,9 +22,6 @@
     </property>
   </property>
   <property name="plugins" type="empty">
-    <property name="plugin-1" type="string" value="applicationsmenu">
-      <property name="button-title" type="string" value="Start"/>
-    </property>
     <property name="plugin-2" type="string" value="actions"/>
     <property name="plugin-15" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>
@@ -50,5 +47,6 @@
         </property>
       </property>
     </property>
+    <property name="plugin-1" type="string" value="whiskermenu"/>
   </property>
 </channel>

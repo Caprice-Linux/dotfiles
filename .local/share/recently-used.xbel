@@ -3,12 +3,12 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///usr/share/backgrounds/xfce" added="2020-05-01T22:19:36Z" modified="2020-05-01T22:19:36Z" visited="2020-05-01T22:19:36Z">
+  <bookmark href="file:///usr/bin/plank" added="2020-07-01T15:09:00Z" modified="2020-07-01T15:09:00Z" visited="2020-07-01T15:09:00Z">
     <info>
       <metadata owner="http://freedesktop.org">
-        <mime:mime-type type="inode/directory"/>
+        <mime:mime-type type="application/octet-stream"/>
         <bookmark:applications>
-          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2020-05-01T22:19:36Z" count="1"/>
+          <bookmark:application name="xfce4-session-settings" exec="&apos;xfce4-session-settings %u&apos;" modified="2020-07-01T15:09:00Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -26,7 +26,7 @@
             <value type="uint" value="46848"/>
             <value type="uint" value="65535"/>
           </property>
-          <property name="image-style" type="int" value="1"/>
+          <property name="image-style" type="int" value="3"/>
           <property name="last-image" type="string" value="/usr/share/backgrounds/xfce/xfce-blue.jpg"/>
         </property>
         <property name="workspace1" type="empty">
